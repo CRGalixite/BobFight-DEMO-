@@ -17,9 +17,6 @@ I chose this project because it was my **first real step into game development**
 The game is hosted online via GitHub Pages:  
 🔗 [Play Here](https://crgalixite.github.io/BobFight-DEMO-/)  
 
-## 🚀 Future Plans  
-As I continue developing games, I aim to refine mechanics, enhance visual design, and experiment with more complex coding structures. This project was just the beginning of my journey into game development!
-
-##🎨 Special Thanks to Wick Editor
+## 🎨 Special Thanks to Wick Editor
 Thanks to Wick Editor, which made this project possible. Wick Editor is a free, open-source tool for creating games, animations, and everything! Its intuitive tools empowered me to bring ideas to life, blending artistry and game development seamlessly.
 I truly appreciate the dedication to keeping it free and open-source, fostering creativity for developers and artists alike. Looking forward to seeing how Wick Editor continues to inspire future creators! 🎮
