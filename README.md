@@ -15,7 +15,7 @@ I chose this project because it was my **first real step into game development**
 
 ## 💻 Play the Game  
 The game is hosted online via GitHub Pages:  
-🔗 [Play Here]([https://crgalixite.github.io/BobFight-DEMO-/])  
+🔗 [Play Here](https://crgalixite.github.io/BobFight-DEMO-/)  
 
 ## 🚀 Future Plans  
 As I continue developing games, I aim to refine mechanics, enhance visual design, and experiment with more complex coding structures. This project was just the beginning of my journey into game development!
